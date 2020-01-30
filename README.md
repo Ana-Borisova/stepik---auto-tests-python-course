@@ -1,3 +1,3 @@
 # stepik---auto-tests-python-course
 Домашние задания к курсу
-Олала
+https://stepik.org/course/575/promo#toc
